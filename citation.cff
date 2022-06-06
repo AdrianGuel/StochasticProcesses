@@ -1,0 +1,10 @@
+cff-version: 1.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Guel-Cortez
+    given-names: Adrian-Josue
+    orcid: https://orcid.org/0000-0002-9325-9956
+title: "Stochastic Simulations, Laplace Assumption and Information Rate"
+version: 1.0
+doi: 10.5281/zenodo.1234
+date-released: 06-06-2022
